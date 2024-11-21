@@ -3,6 +3,8 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
+import '../../../globals.css';
+
 const NavbarDesktop: React.FC = () => {
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
@@ -116,7 +118,7 @@ const NavbarDesktop: React.FC = () => {
                         <div className="flex flex-row w-[1280px] items-center justify-center m-[80px] gap-[80px]">
                             {/* 1 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy1.svg " className="h-[64px] w-[64px] object-contain" />
+                                <img src="/icons/trophy-1.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -126,7 +128,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 2 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy2.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/icons/trophy-2.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -136,7 +138,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 3 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy3.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/icons/trophy-3.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -165,9 +167,9 @@ const NavbarDesktop: React.FC = () => {
                                 rgba(28, 28, 30, 0.9) 76%
                                 )
                             `,
-                            }}
-                        ></div> */}
-                        {/* <div className='flex flex-col w-full items-center justify-center gap-[80px]'>
+                            }} */}
+                        {/* ></div>
+                        <div className='flex flex-col w-full items-center justify-center gap-[80px]'>
                             <div className='flex flex-col w-full items-center justify-center gap-[40px]'> */}
                                 {/* Text Content */}
                                 {/* <div className="flex flex-col justify-center items-center gap-[4px] z-10">
@@ -181,11 +183,11 @@ const NavbarDesktop: React.FC = () => {
                                     <br />
                                     Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse.
                                 </div>
-                            </div>
-                        </div> */}
-                    {/* </div> */}
-                {/* </div> */}
-            {/* </div> */}
+                            </div> */}
+                        {/* </div>
+                    </div>
+                </div>
+            </div> */}
         </div>
 
 
