@@ -83,7 +83,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             <Image
                                 className="w-[520px] h-[402px]"
-                                src="/icons/logo.png"
+                                src="icons/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={520}
                                 height={420}
