@@ -26,7 +26,7 @@ const NavbarDesktop: React.FC = () => {
                 <div className="ml-[56px] mr-[56px] w-full flex flex-row justify-between">
                     <div className="py-[4px] px-[4px]">
                         <Link href="/landing" passHref>
-                            <Image src="/logo.png" alt="Logo" width={64} height={34} />
+                            <Image src="/next.svg" alt="Logo" width={64} height={34} />
                         </Link>
                     </div>
                     <div className='w-full flex flex-row justify-center items-center gap-[40px]'>
