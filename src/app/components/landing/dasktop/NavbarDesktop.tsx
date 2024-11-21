@@ -3,8 +3,6 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import '../../../globals.css';
-
 const NavbarDesktop: React.FC = () => {
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
@@ -28,7 +26,7 @@ const NavbarDesktop: React.FC = () => {
                         <Link href="/landing" passHref>
                             <Image
                                 className="w-[64px] h-[34px]"
-                                src="/icons/logo.png"
+                                src="/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={64}
                                 height={34}
@@ -81,7 +79,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             <Image
                                 className="w-[520px] h-[402px]"
-                                src="logo.png"
+                                src="/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={520}
                                 height={420}
@@ -118,7 +116,7 @@ const NavbarDesktop: React.FC = () => {
                         <div className="flex flex-row w-[1280px] items-center justify-center m-[80px] gap-[80px]">
                             {/* 1 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/trophy-1.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/trophy1.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -128,7 +126,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 2 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/trophy-2.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/trophy2.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -138,7 +136,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 3 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/trophy-3.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/trophy3.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -169,10 +167,10 @@ const NavbarDesktop: React.FC = () => {
                             `,
                             }}
                         ></div>
-                        <div className='flex flex-col w-full items-center justify-center gap-[80px]'>
-                            <div className='flex flex-col w-full items-center justify-center gap-[40px]'>
+                        {/* <div className='flex flex-col w-full items-center justify-center gap-[80px]'>
+                            <div className='flex flex-col w-full items-center justify-center gap-[40px]'> */}
                                 {/* Text Content */}
-                                <div className="flex flex-col justify-center items-center gap-[4px] z-10">
+                                {/* <div className="flex flex-col justify-center items-center gap-[4px] z-10">
                                     <div className="text-6xl">Design, Create and</div>
                                     <div className="text-7xl italic bg-gradient-to-b from-[rgba(142,194,204,1)] to-[rgba(211,158,220,1)] bg-clip-text text-transparent">
                                         be passionate
@@ -184,7 +182,7 @@ const NavbarDesktop: React.FC = () => {
                                     Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse.
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
