@@ -81,7 +81,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             <Image
                                 className="w-[520px] h-[402px]"
-                                src="/icons/logo.png"
+                                src="logo.png"
                                 alt="Moldable Studio Logo"
                                 width={520}
                                 height={420}
@@ -95,7 +95,7 @@ const NavbarDesktop: React.FC = () => {
                 {/* Background Image */}
                 <Image
                     className="-z-10"
-                    src="/gradient/gradient.svg"
+                    src="/gradient.svg"
                     alt="bg-gradient"
                     width={1000}
                     height={1000}
@@ -118,7 +118,7 @@ const NavbarDesktop: React.FC = () => {
                         <div className="flex flex-row w-[1280px] items-center justify-center m-[80px] gap-[80px]">
                             {/* 1 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy-1.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/trophy-1.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -128,7 +128,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 2 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy-2.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/trophy-2.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -138,7 +138,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 3 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy-3.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/trophy-3.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
