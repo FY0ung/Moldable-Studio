@@ -26,7 +26,7 @@ const NavbarDesktop: React.FC = () => {
                         <Link href="/landing" passHref>
                             <Image
                                 className="w-[64px] h-[34px]"
-                                src="/logo.png"
+                                src="/icons/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={64}
                                 height={34}
@@ -79,7 +79,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             <Image
                                 className="w-[520px] h-[402px]"
-                                src="/logo.png"
+                                src="/icons/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={520}
                                 height={420}
@@ -93,7 +93,7 @@ const NavbarDesktop: React.FC = () => {
                 {/* Background Image */}
                 <Image
                     className="-z-10"
-                    src="/gradient.svg"
+                    src="/gradient/gradient.svg"
                     alt="bg-gradient"
                     width={1000}
                     height={1000}
@@ -116,7 +116,7 @@ const NavbarDesktop: React.FC = () => {
                         <div className="flex flex-row w-[1280px] items-center justify-center m-[80px] gap-[80px]">
                             {/* 1 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/trophy1.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/icons/trophy1.svg " className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -126,7 +126,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 2 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/trophy2.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/icons/trophy2.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -136,7 +136,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 3 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/trophy3.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="/icons/trophy3.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -149,11 +149,11 @@ const NavbarDesktop: React.FC = () => {
                 </div>
             </div>
             {/* Section 3 */}
-            <div className='w-full mt-[56px]'>
+            {/* <div className='w-full mt-[56px]'>
                 <div className='w-full h-[906px] flex flex-col justify-center items-center align-middle p-[80px]'>
-                    <div className="relative w-full h-[819px] flex flex-col items-center justify-center">
+                    <div className="relative w-full h-[819px] flex flex-col items-center justify-center"> */}
                         {/* Background */}
-                        <div
+                        {/* <div
                             className="absolute inset-0 rounded-full blur-[100px] -z-10"
                             style={{
                                 background: `
@@ -166,7 +166,7 @@ const NavbarDesktop: React.FC = () => {
                                 )
                             `,
                             }}
-                        ></div>
+                        ></div> */}
                         {/* <div className='flex flex-col w-full items-center justify-center gap-[80px]'>
                             <div className='flex flex-col w-full items-center justify-center gap-[40px]'> */}
                                 {/* Text Content */}
@@ -183,9 +183,9 @@ const NavbarDesktop: React.FC = () => {
                                 </div>
                             </div>
                         </div> */}
-                    </div>
-                </div>
-            </div>
+                    {/* </div> */}
+                {/* </div> */}
+            {/* </div> */}
         </div>
 
 
