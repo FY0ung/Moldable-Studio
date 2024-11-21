@@ -33,8 +33,6 @@ const NavbarDesktop: React.FC = () => {
                                 width={64}
                                 height={34}
                             />
-                            <Image src="/assets/images/logo.png" alt="Logo" width={100} height={100} />
-
                         </Link>
                     </div>
                     <div className='w-full flex flex-row justify-center items-center gap-[40px]'>
