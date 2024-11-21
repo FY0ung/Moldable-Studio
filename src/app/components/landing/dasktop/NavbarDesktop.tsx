@@ -26,7 +26,7 @@ const NavbarDesktop: React.FC = () => {
                         <Link href="/landing" passHref>
                             <Image
                                 className="w-[64px] h-[34px]"
-                                src="/logo.png"
+                                src="/public/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={64}
                                 height={34}
