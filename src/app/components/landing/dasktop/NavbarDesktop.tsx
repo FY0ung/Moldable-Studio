@@ -26,15 +26,13 @@ const NavbarDesktop: React.FC = () => {
                 <div className="ml-[56px] mr-[56px] w-full flex flex-row justify-between">
                     <div className="py-[4px] px-[4px]">
                         <Link href="/landing" passHref>
-                            {/* <Image
+                            <Image
                                 className="w-[64px] h-[34px]"
-                                src="/icons/logo.png"
+                                src="icons/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={64}
                                 height={34}
-                            /> */}
-                            <Image src="/assets/images/logo.png" alt="Logo" width={100} height={100} />
-
+                            /> 
                         </Link>
                     </div>
                     <div className='w-full flex flex-row justify-center items-center gap-[40px]'>
@@ -97,7 +95,7 @@ const NavbarDesktop: React.FC = () => {
                 {/* Background Image */}
                 <Image
                     className="-z-10"
-                    src="/gradient/gradient.svg"
+                    src="gradient/gradient.svg"
                     alt="bg-gradient"
                     width={1000}
                     height={1000}
@@ -120,7 +118,7 @@ const NavbarDesktop: React.FC = () => {
                         <div className="flex flex-row w-[1280px] items-center justify-center m-[80px] gap-[80px]">
                             {/* 1 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy-1.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="icons/trophy-1.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -130,7 +128,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 2 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy-2.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="icons/trophy-2.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
@@ -140,7 +138,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             {/* 3 */}
                             <div className="flex flex-col w-full h-auto items-center justify-center gap-[16px]">
-                                <img src="/icons/trophy-3.svg" className="h-[64px] w-[64px] object-contain" />
+                                <img src="icons/trophy-3.svg" className="h-[64px] w-[64px] object-contain" />
                                 <div className="text-white text-xl font-bold text-center">
                                     Nibh viverra
                                 </div>
