@@ -26,7 +26,15 @@ const NavbarDesktop: React.FC = () => {
                 <div className="ml-[56px] mr-[56px] w-full flex flex-row justify-between">
                     <div className="py-[4px] px-[4px]">
                         <Link href="/landing" passHref>
-                            <Image src="/next.svg" alt="Logo" width={64} height={34} />
+                            {/* <Image
+                                className="w-[64px] h-[34px]"
+                                src="/icons/logo.png"
+                                alt="Moldable Studio Logo"
+                                width={64}
+                                height={34}
+                            /> */}
+                            <Image src="/assets/images/logo.png" alt="Logo" width={100} height={100} />
+
                         </Link>
                     </div>
                     <div className='w-full flex flex-row justify-center items-center gap-[40px]'>
@@ -148,8 +156,8 @@ const NavbarDesktop: React.FC = () => {
             {/* <div className='w-full mt-[56px]'>
                 <div className='w-full h-[906px] flex flex-col justify-center items-center align-middle p-[80px]'>
                     <div className="relative w-full h-[819px] flex flex-col items-center justify-center"> */}
-            {/* Background */}
-            {/* <div
+                        {/* Background */}
+                        {/* <div
                             className="absolute inset-0 rounded-full blur-[100px] -z-10"
                             style={{
                                 background: `
@@ -162,11 +170,11 @@ const NavbarDesktop: React.FC = () => {
                                 )
                             `,
                             }} */}
-            {/* ></div>
+                        {/* ></div>
                         <div className='flex flex-col w-full items-center justify-center gap-[80px]'>
                             <div className='flex flex-col w-full items-center justify-center gap-[40px]'> */}
-            {/* Text Content */}
-            {/* <div className="flex flex-col justify-center items-center gap-[4px] z-10">
+                                {/* Text Content */}
+                                {/* <div className="flex flex-col justify-center items-center gap-[4px] z-10">
                                     <div className="text-6xl">Design, Create and</div>
                                     <div className="text-7xl italic bg-gradient-to-b from-[rgba(142,194,204,1)] to-[rgba(211,158,220,1)] bg-clip-text text-transparent">
                                         be passionate
@@ -178,7 +186,7 @@ const NavbarDesktop: React.FC = () => {
                                     Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse.
                                 </div>
                             </div> */}
-            {/* </div>
+                        {/* </div>
                     </div>
                 </div>
             </div> */}

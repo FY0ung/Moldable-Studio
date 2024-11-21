@@ -69,13 +69,13 @@ const NavbarDesktop = ()=>{
                                 href: "/landing",
                                 passHref: true,
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                    src: "/next.svg",
+                                    src: "/assets/images/logo.png",
                                     alt: "Logo",
-                                    width: 64,
-                                    height: 34
+                                    width: 100,
+                                    height: 100
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 29,
+                                    lineNumber: 36,
                                     columnNumber: 29
                                 }, this)
                             }, void 0, false, {
@@ -95,34 +95,34 @@ const NavbarDesktop = ()=>{
                                     children: "About"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 33,
+                                    lineNumber: 41,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     children: "Projects"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 42,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     children: "Service"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 35,
+                                    lineNumber: 43,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     children: "Contact Us "
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 36,
+                                    lineNumber: 44,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                            lineNumber: 32,
+                            lineNumber: 40,
                             columnNumber: 21
                         }, this)
                     ]
@@ -160,7 +160,7 @@ const NavbarDesktop = ()=>{
                                 }
                             }, void 0, false, {
                                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                lineNumber: 45,
+                                lineNumber: 53,
                                 columnNumber: 25
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -177,7 +177,7 @@ const NavbarDesktop = ()=>{
                                                         children: "Design, Create and"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                        lineNumber: 65,
+                                                        lineNumber: 73,
                                                         columnNumber: 37
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -185,13 +185,13 @@ const NavbarDesktop = ()=>{
                                                         children: "be passionate"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                        lineNumber: 66,
+                                                        lineNumber: 74,
                                                         columnNumber: 37
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                lineNumber: 64,
+                                                lineNumber: 72,
                                                 columnNumber: 33
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -200,20 +200,20 @@ const NavbarDesktop = ()=>{
                                                     "Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris.",
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                        lineNumber: 72,
+                                                        lineNumber: 80,
                                                         columnNumber: 37
                                                     }, this),
                                                     "Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse."
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                lineNumber: 70,
+                                                lineNumber: 78,
                                                 columnNumber: 33
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                        lineNumber: 62,
+                                        lineNumber: 70,
                                         columnNumber: 29
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -224,29 +224,29 @@ const NavbarDesktop = ()=>{
                                         height: 420
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 84,
                                         columnNumber: 29
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                lineNumber: 61,
+                                lineNumber: 69,
                                 columnNumber: 25
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                        lineNumber: 43,
+                        lineNumber: 51,
                         columnNumber: 21
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                    lineNumber: 42,
+                    lineNumber: 50,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                lineNumber: 41,
+                lineNumber: 49,
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -260,7 +260,7 @@ const NavbarDesktop = ()=>{
                         height: 1000
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                        lineNumber: 90,
+                        lineNumber: 98,
                         columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -277,14 +277,14 @@ const NavbarDesktop = ()=>{
                                                 "All your idea in",
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 103,
+                                                    lineNumber: 111,
                                                     columnNumber: 33
                                                 }, this),
                                                 "one place"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                            lineNumber: 102,
+                                            lineNumber: 110,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -292,7 +292,7 @@ const NavbarDesktop = ()=>{
                                             children: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                            lineNumber: 104,
+                                            lineNumber: 112,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -302,18 +302,18 @@ const NavbarDesktop = ()=>{
                                                 children: "More about us"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                lineNumber: 108,
+                                                lineNumber: 116,
                                                 columnNumber: 33
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                            lineNumber: 107,
+                                            lineNumber: 115,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 101,
+                                    lineNumber: 109,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -327,7 +327,7 @@ const NavbarDesktop = ()=>{
                                                     className: "h-[64px] w-[64px] object-contain"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 115,
+                                                    lineNumber: 123,
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -335,7 +335,7 @@ const NavbarDesktop = ()=>{
                                                     children: "Nibh viverra"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 116,
+                                                    lineNumber: 124,
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -344,26 +344,26 @@ const NavbarDesktop = ()=>{
                                                         "Sit bibendum donec dolor fames neque ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                            lineNumber: 120,
+                                                            lineNumber: 128,
                                                             columnNumber: 74
                                                         }, this),
                                                         " vulputate non sit aliquam. Consequat ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                            lineNumber: 120,
+                                                            lineNumber: 128,
                                                             columnNumber: 118
                                                         }, this),
                                                         " turpis natoque leo, massa."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 119,
+                                                    lineNumber: 127,
                                                     columnNumber: 33
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                            lineNumber: 114,
+                                            lineNumber: 122,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -374,7 +374,7 @@ const NavbarDesktop = ()=>{
                                                     className: "h-[64px] w-[64px] object-contain"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 125,
+                                                    lineNumber: 133,
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -382,7 +382,7 @@ const NavbarDesktop = ()=>{
                                                     children: "Nibh viverra"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 126,
+                                                    lineNumber: 134,
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -391,26 +391,26 @@ const NavbarDesktop = ()=>{
                                                         "Sit bibendum donec dolor fames neque ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                            lineNumber: 130,
+                                                            lineNumber: 138,
                                                             columnNumber: 74
                                                         }, this),
                                                         " vulputate non sit aliquam. Consequat ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                            lineNumber: 130,
+                                                            lineNumber: 138,
                                                             columnNumber: 118
                                                         }, this),
                                                         " turpis natoque leo, massa."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 129,
+                                                    lineNumber: 137,
                                                     columnNumber: 33
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                            lineNumber: 124,
+                                            lineNumber: 132,
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -421,7 +421,7 @@ const NavbarDesktop = ()=>{
                                                     className: "h-[64px] w-[64px] object-contain"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 135,
+                                                    lineNumber: 143,
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -429,7 +429,7 @@ const NavbarDesktop = ()=>{
                                                     children: "Nibh viverra"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 136,
+                                                    lineNumber: 144,
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -438,49 +438,49 @@ const NavbarDesktop = ()=>{
                                                         "Sit bibendum donec dolor fames neque ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                            lineNumber: 140,
+                                                            lineNumber: 148,
                                                             columnNumber: 74
                                                         }, this),
                                                         " vulputate non sit aliquam. Consequat ",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                            lineNumber: 140,
+                                                            lineNumber: 148,
                                                             columnNumber: 118
                                                         }, this),
                                                         " turpis natoque leo, massa."
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                                    lineNumber: 139,
+                                                    lineNumber: 147,
                                                     columnNumber: 33
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                            lineNumber: 134,
+                                            lineNumber: 142,
                                             columnNumber: 29
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                                    lineNumber: 112,
+                                    lineNumber: 120,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                            lineNumber: 99,
+                            lineNumber: 107,
                             columnNumber: 21
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                        lineNumber: 98,
+                        lineNumber: 106,
                         columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/components/landing/dasktop/NavbarDesktop.tsx",
-                lineNumber: 88,
+                lineNumber: 96,
                 columnNumber: 13
             }, this)
         ]
