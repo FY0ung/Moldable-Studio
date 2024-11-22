@@ -3,8 +3,6 @@ import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import '../../../globals.css';
-
 const NavbarDesktop: React.FC = () => {
     const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
@@ -28,20 +26,18 @@ const NavbarDesktop: React.FC = () => {
                         <Link href="/landing" passHref>
                             <Image
                                 className="w-[64px] h-[34px]"
-                                src="icons/logo.png"
+                                src="/icons/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={64}
                                 height={34}
-                            /> */}
-                            <Image src="/assets/images/logo.png" alt="Logo" width={100} height={100} />
-
+                            /> 
                         </Link>
                     </div>
                     <div className='w-full flex flex-row justify-center items-center gap-[40px]'>
-                        <button>About</button>
-                        <button>Projects</button>
-                        <button>Service</button>
-                        <button>Contact Us </button>
+                        <button className='text-white '>About</button>
+                        <button className='text-white '>Projects</button>
+                        <button className='text-white '>Service</button>
+                        <button className='text-white '>Contact Us </button>
                     </div>
                 </div>
             </div>
@@ -70,12 +66,12 @@ const NavbarDesktop: React.FC = () => {
                             <div className='flex flex-col w-full items-center justify-center gap-[40px]'>
                                 {/* Text Content */}
                                 <div className="flex flex-col justify-center items-center gap-[4px] z-10">
-                                    <div className="text-6xl">Design, Create and</div>
+                                    <div className="text-6xl text-white ">Design, Create and</div>
                                     <div className="text-7xl italic bg-gradient-to-b from-[rgba(142,194,204,1)] to-[rgba(211,158,220,1)] bg-clip-text text-transparent">
                                         be passionate
                                     </div>
                                 </div>
-                                <div className="flex text-base text-center z-10">
+                                <div className="flex text-white text-base text-center z-10">
                                     Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris.
                                     <br />
                                     Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse.
@@ -83,7 +79,7 @@ const NavbarDesktop: React.FC = () => {
                             </div>
                             <Image
                                 className="w-[520px] h-[402px]"
-                                src="icons/logo.png"
+                                src="/icons/logo.png"
                                 alt="Moldable Studio Logo"
                                 width={520}
                                 height={420}
